@@ -50,7 +50,7 @@ jobs:
           steps.calibre.outputs.markdown != ''
         uses: peter-evans/create-pull-request@v3
         with:
-          token: ${{ secrets.NEWBE_GITHUB_PAT }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           title: Auto Compress Images
           branch-suffix: timestamp
           commit-message: Compress Images
