@@ -63,8 +63,10 @@ MVP portal 也同样提供了这样一个简要的清单，从各个方面解答
 - Jetbrain 全家桶授权
 - Visual Assist X 免费 NFR 授权
 - Telerik 免费 NFR 授权
+- DevExpress 免费 NFR 授权
 - RedGate 免费 NFR 授权
 - Pluralsight 所有课程免费阅读
+- TechSmith 免费 NFR 授权
 
 其中绝大部分的申请和使用都非常的简单，通过 MVP Portal 中的帮助内容，你便可以了解如何进行这些权益的申请。
 
