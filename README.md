@@ -36,6 +36,8 @@ MVP portal 也同样提供了这样一个简要的清单，从各个方面解答
 
 <https://mvp.microsoft.com/zh-cn/Opportunities/my-opportunities-mvp-nda-distribution-list>
 
+如果你发现签署 NDA 的时候在线签署向导一直卡在生成 PDF 的提示页面的情况，请使用 Chromium 内核的 Microsoft Edge 的 Internet Explorer 模式，或者直接掏出虚拟机进入旧版 Windows 打开 Internet Explorer 去进行 NDA 的在线签署即可。（毕竟通过使用 F12 开发者工具粗略看了下，看起来签署向导的 PDF 生成模块和 Chromium 内核的 Microsoft Edge 不大兼容）
+
 ## MVP 个人简介
 
 默认情况下，在你初次成为 MVP 之后。在公开的 MVP 列表中并不能查看到你最新的信息。
