@@ -36,6 +36,8 @@ MVP portal 也同样提供了这样一个简要的清单，从各个方面解答
 
 <https://mvp.microsoft.com/zh-cn/Opportunities/my-opportunities-mvp-nda-distribution-list>
 
+如果你发现签署 NDA 的时候在线签署向导一直卡在生成 PDF 的提示页面的情况，请使用 Chromium 内核的 Microsoft Edge 的 Internet Explorer 模式，或者直接掏出虚拟机进入旧版 Windows 打开 Internet Explorer 去进行 NDA 的在线签署即可。（毕竟通过使用 F12 开发者工具粗略看了下，看起来签署向导的 PDF 生成模块和 Chromium 内核的 Microsoft Edge 不大兼容）
+
 ## MVP 个人简介
 
 默认情况下，在你初次成为 MVP 之后。在公开的 MVP 列表中并不能查看到你最新的信息。
@@ -231,5 +233,34 @@ Jetbrain 全家桶权益，不仅仅包含了 Jetbrain 所有的 IDE。实际上
 
 5. 喜提大礼包
 
+### 个人物品清关注意事项
 
+如果你没有收到相关邮件而是收到了清关提醒的短信，你需要通过短信中描述的电话号码去联系他们获取快递面单发票的扫描件的 PDF 文件。
 
+当你通过邮件获取 PDF 以后，你就可以开始根据短信上的提示开始在线清关申报了，其中你需要按照 PDF 的内容在 MVP Kit 内包含的物品清单，由于需要进行中文翻译，为了让后面阅读到文章的朋友在遇到类似的情况时可以轻松一点，我把我填写的相关内容整理成表以供参考。
+
+P.S. 由于要写的内容还是比较多，为了能够让表格变得不那么长，于是一些重复内容我会在表前注明。
+
+- 每种物品的数量皆为 `1`
+- 每种物品的单位皆为 `件`
+- 每种物品的货币类型皆为 `美元`
+- 每种物品的品牌型号或用途来源皆为 `MVP Award Kit`
+- 每种物品的物品主类皆为 `其他物品`
+- 每种物品的物品子类皆为 `其他物品`
+
+| 物品名称 (英文)           | 物品名称 (译文) | 材料   | 单价值 |
+|---------------------------|-----------------|--------|--------|
+| Crystal Award Gift        | 水晶奖礼品      | 塑料等 | 56.3   |
+| MVP Award Box             | MVP奖励盒       | 塑料等 | 1      |
+| Certificate               | 证书            | 纸等   | 1      |
+| Certificate Holder        | 证书盒          | 塑料等 | 1      |
+| Certificate Plastic Cover | 证书塑料套      | 塑料等 | 1      |
+| Lapel Pin                 | 襟针            | 金属等 | 1      |
+| ID Card                   | 证件卡          | 塑料等 | 1      |
+| Dark Navy Gift Box        | 礼品盒          | 塑料等 | 1      |
+| 3-Panel Insert            | 三折页插页      | 纸等   | 1      |
+| Foam Insert               | 泡沫包装        | 泡沫等 | 1      |
+| MVP Sticker Sheet         | MVP贴纸         | 纸等   | 1      |
+| NDA Packet Envelope       | NDA资料袋信封   | 纸等   | 1      |
+| Notice to Receiver        | 收件人通知      | 纸等   | 1      |
+| Code of Conduct Letter    | 行为准则信      | 纸等   | 1      |
