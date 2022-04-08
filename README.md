@@ -138,7 +138,21 @@ MVP portal 也同样提供了这样一个简要的清单，从各个方面解答
 
 接着登录你的主要邮箱，查看审核结果的邮件，点击邮件上的按钮便可以开始尝试绑定额度了。
 
-绑定过程比较简单，而且由于我已经绑定过了，此处也就无法给出具体的截图说明。
+> 绑定过程
+
+首先进入MVP网站 -> [Azure 额度延伸权益](https://mvp.microsoft.com/zh-cn/Benefits/extended-azure-credit-benefit)
+
+![Azure 额度延伸权益](/images/claim-the-extended-azure-credit-benefit.png)
+
+在 Claim the Extended Azure Credit Benefit 的输入框中输入非CN的邮箱账号，然后勾选Acceptance & Acknowledgement,在点击Get按钮，如图
+
+![获取Azure 额度延伸权益](/images/get-your-extended-azure-credit-benefit-now.png)
+
+结果如下所示
+
+![获取Azure 额度延伸权益结果](/images/get-your-extended-azure-credit-benefit-now-result.png)
+
+绑定过程比较简单,接下来需要等待1个工作日，如果遇到周五则需要等待3天，很幸运，我就是需要等3天。
 
 绑定完成之后，便可以在以下地址中查看额度的余额和使用情况了：
 
