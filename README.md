@@ -2,6 +2,7 @@
 
 ## MVP Portal
 
+
 当你收到来自微软的确认邮件之后，你将正式被接纳为微软现任 MVP 的一员。从此刻开始，你便拥有了 MVP portal 上相关的操作权限。
 
 MVP portal 的地址是 <https://mvp.microsoft.com/>。这实际上就是你进行材料申请提交时的网址。
