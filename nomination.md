@@ -6,14 +6,14 @@
 # MVP提名流程说明
 1.了解MVP的奖励范围：自2022年7月25日起，微软最有价值专家项目的技术方向
 由原来的11个增加至14个，新增Mixed Reality，IoT，Security三大技术方向。
-您可以根据官网https://mvp.microsoft.com/en-us/Pages/mvp-award-update
+您可以根据官网<https://mvp.microsoft.com/en-us/Pages/mvp-award-update>
 技术架构的分类，以及您对候选人技术方向和社区贡献内容的了解，
 推荐他/她**申请一个技术方向的奖项**。
 
 2.提名人对被提名人进行把关：请各位提名人帮忙把关被提名人的技术水平、贡献内容。
 同时，也从社区健康的角度，考察被提名人是否遵守社区行为规范。
 
-3.提名人登录官网进行提名：请您登录https://mvp.microsoft.com/en-us/Nomination/nominate-an-mvp
+3.提名人登录官网进行提名：请您登录<https://mvp.microsoft.com/en-us/Nomination/nominate-an-mvp>
 填写您和被提名人的相关信息，对其进行提名。
 
 4.告知提名工作：当您在官网上完成提名工作后，
