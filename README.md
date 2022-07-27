@@ -39,6 +39,15 @@ MVP portal 也同样提供了这样一个简要的清单，从各个方面解答
 
 如果你发现签署 NDA 的时候在线签署向导一直卡在生成 PDF 的提示页面的情况，请使用 Chromium 内核的 Microsoft Edge 的 Internet Explorer 模式，或者直接掏出虚拟机进入旧版 Windows 打开 Internet Explorer 去进行 NDA 的在线签署即可。（毕竟通过使用 F12 开发者工具粗略看了下，看起来签署向导的 PDF 生成模块和 Chromium 内核的 Microsoft Edge 不大兼容）
 
+## 始终遵守社区行为准则
+
+社区行为准则内容见下图。
+
+![1658893978689](https://user-images.githubusercontent.com/108131762/181157143-09d11d84-707c-49d7-b601-275c3f0cacdc.png)
+
+
+如您遇到违反社区行为准则的情况，请及时告知我们。我们商议后，一起做出恰当处理。
+
 ## MVP 个人简介
 
 默认情况下，在你初次成为 MVP 之后。在公开的 MVP 列表中并不能查看到你最新的信息。
@@ -72,6 +81,13 @@ MVP portal 也同样提供了这样一个简要的清单，从各个方面解答
 - TechSmith 免费 NFR 授权
 
 其中绝大部分的申请和使用都非常的简单，通过 MVP Portal 中的帮助内容，你便可以了解如何进行这些权益的申请。
+
+目前，第三方福利已经转移到**MVP Award Program的Teams群组，下面的Opportunities里了**。大家在个人页面点击第三方福利，会跳转到这里。如果您还没有加入该Teams群组，请及时填写表格申请加入：<https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR1MGC8v69UtCjJWx2nbSGopUNjNCWDZTQkRLV0gwWkVGV0xYRzVSUkJRNy4u&wdLOR=cFB06B42A-7F19-4BA8-87DF-12A39E77E8E3>
+
+![d1f53a5b5f5418c211fc7ee4ab4a0a0](https://user-images.githubusercontent.com/108131762/181157661-5c3910c9-6d86-4bad-bf2b-f3d6be4daa9c.png)
+![5c108d8afb42e570dbcf0aad42cb010](https://user-images.githubusercontent.com/108131762/181157680-4ebaf73b-6ad1-4f58-84b2-933c29cff656.png)
+
+此群组为全球项目官方沟通渠道，项目组通知、活动信息、PGI信息和录像都在其中，大家加入后可以多多查询其中资源。
 
 以下提一些我遇到的比较特殊的权益申请问题和办法。
 
@@ -289,3 +305,146 @@ P.S. 由于要写的内容还是比较多，为了能够让表格变得不那么
 | NDA Packet Envelope       | NDA资料袋信封   | 纸等   | 1      |
 | Notice to Receiver        | 收件人通知      | 纸等   | 1      |
 | Code of Conduct Letter    | 行为准则信      | 纸等   | 1      |
+
+
+## MVPGA可以帮助您解决哪些问题
+
+如遇和项目组、活动、福利有关的问题，可以写邮件至MVPGA@microsoft.com，工作日办公。
+
+最好用英文书写邮件给mvpga，并抄送chinamvp@microsoft.com或twmvp@microsoft.com或hkmvp@microsoft.com。
+
+邮件内容包括：
+
+1.您的姓名和MVPID号
+
+2.清楚描述您需要的支持
+
+3.必要时请截图
+
+
+## MVP与产品组和项目组的沟通渠道
+
+### 1.Distribution list（DL）:在MVP签署NDA保密协议后，可申请加入不同技术方向的DL。
+
+该技术方向的产品组经理会通过DL邮件与MVP进行直接沟通，这种保密性质的沟通方式，可以让更高效地反馈和回复问题。
+点击链接[MVP DLs](https://mvp.microsoft.com/en-us/Opportunities/my-opportunities-mvp-nda-distribution-list)申请加入DL。
+DL邮件的名称一般是[技术方向名称]-MVP-NDA@mstechdiscussions.com，请设置为信任邮箱，以确保正常接收。
+我们一般会根据您的技术领域自动加您进入该DL，您可以设置收件系统，将这些DL邮件归档，不影响您正常办公。
+
+您通过MVP-NDA DL反馈的内容可以包括：
+
+•	相关技术问题或产品反馈
+
+•	和产品组人员确认技术性能
+
+•	顾客场景
+
+•	产品路线图和最新功能 
+
+•	如何撰写文档
+
+•	技术相关的演讲和大型活动参加机会 
+
+MVP-NDA DL邮件请不要反馈以下内容：
+
+•	产品组团队不能回复的题外话 
+
+•	MVP项目相关的一般问题
+
+•	MVP项目福利
+
+•	个人问题反馈和投诉
+
+•	商业发展或工作机会 
+
+您可以登录MVP NDA DL member site page(link) ，了解更多关于DL的内容。
+
+### 2.Product Group Interaction (PGI)产品组互动活动：线上与产品组面对面交流的良好机会。
+
+•	Private Events私人活动: 通过邮件邀请，仅对所在技术领域的MVP开放，需要遵守NDA 保密协议。
+
+•	Public Events公共活动: 对所有MVP开放，需要遵守NDA 保密协议。
+
+•	PGI信息由MVP Engagement 账号发出，CPM社区项目经理会及时转发给大家。
+
+•	每次参加PGI时，会记录您的英文名字，**请展示和您的个人资料相同的姓名**。
+
+往期PGI会议录像，可到MVP Award Program的Teams群下面的Product Group Interaction里找到。
+
+![1658895261400](https://user-images.githubusercontent.com/108131762/181159959-11280735-58e9-4240-a513-4414c22788a6.png)
+
+### 3.Global MVP Award Program Teams群组
+
+请您到Teams中申请加入MVP Award Program群组，大家可在该群里互动、提问、发布活动信息等等。
+这个群也是每年MVP全球峰会的线上收看平台。
+
+如您有任何问题，可到“? Get Help” 下提问。
+
+在“ Opportunities机会”这个栏目下，您可以看到一些全球和地方活动信息。
+
+上面提到在“Product Group Interaction产品组互动”栏目下，您可以按技术类别找到往期PGI视频。
+
+
+## MVP项目博客和社交账户：
+
+MVP项目官方网站：<www.mvp.microsoft.com>
+
+MVP技术博客网页：Microsoft MVP Award Program Blog - [Microsoft Tech Community]([http://blogs.msdn.com/b/mvpawardprogram/](https://techcommunity.microsoft.com/t5/microsoft-mvp-award-program-blog/bg-p/MVPAwardProgramBlog))
+
+[MVP项目Twitter](https://twitter.com/#!/mvpaward)
+
+[MVP Award Program Channel 9](https://channel9.msdn.com/tags/MVP/)
+
+以下项目投稿渠道，欢迎您英文投稿：
+
+o	Technical Tuesday – 相关技术内容
+
+o	Friday Five – 相关技术内容
+
+o	MVP Award Program Blog – 体现MVP社区领导力和贡献的社区故事
+
+
+## MVP & RD 知识库
+
+全球MVP和RD贡献的有关技术和软技能方面的文章、视频和演讲等内容分享。
+
+您可以MVP & RD 通过加入MVP Award Teams获取该知识库内容。
+
+知识库内容会不断更新，如您想贡献内容，可填写以下[调查表](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRz5_gOMgE5pOhV_HV1x30KlUQVNCMzhUOFZDWTRaUEFUVDkyUTgxWlgzOS4u)。
+
+
+## 领英上如何正确填写MVP奖励
+第1步 – 请注意MVP奖励不是您的工作经历，它是微软颁发给社区贡献者的一个奖项，请在您的个人页面，“Add profile section”类型选项中，选择“Accomplishments个人成就” 选项下面的“Honors & Awards荣誉奖项” 这一选项。
+
+第2步- 进入“添加奖项”，填写奖项名称、颁发机构、颁发时间。“相关经历“”建议您空着不要填写，因为这会让人误解和工作相关。
+
+
+## 微软DevRel团队给予MVP项目的支持
+
+**请注意：DevRel团队的其他成员并不是MVP项目的共同负责人，他们会在一些社区活动中给予我们支持。在您与他们合作举办活动之前，请也告知我们。**
+
+1.Reactor Center:位于上海的实体活动地点，可提供线下场地支持和线上活动B站和CSDN直播、活动宣传文案等支持。
+
+2.微软MSDN公众号、微博：可提供MVP活动宣传转发、MVP精选文章转发。
+
+3.比特熊直播间：MVP 英雄故事+技术直播+录像花絮
+
+4.MVP技术茗品会
+
+5.技术加油站：提供活动纪念品支持
+
+
+## 全球MVP月报Bits & Bytes征稿
+
+欢迎您撰写发生在技术社区中的故事，我们会根据每月主题，将您的故事投稿到全球月报。
+
+![Picture1](https://user-images.githubusercontent.com/108131762/181161540-d8bdaa4c-26e4-4ec9-872b-b4eb7ee4934f.png)
+
+
+## GCR MVP/RD 活动快报
+
+请在每次组织和参加活动前后告知我们，每两月我们会制作GCR活动快报。
+
+<img width="458" alt="Picture2" src="https://user-images.githubusercontent.com/108131762/181161641-e4e96dd2-acd0-402b-8ca7-79640c1746c1.png">
+
+
