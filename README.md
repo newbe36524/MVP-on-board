@@ -82,7 +82,7 @@ MVP portal 也同样提供了这样一个简要的清单，从各个方面解答
 
 其中绝大部分的申请和使用都非常的简单，通过 MVP Portal 中的帮助内容，你便可以了解如何进行这些权益的申请。
 
-目前，第三方福利已经转移到**MVP Award Program的Teams群组，下面的Opportunities里了**。大家在个人页面点击第三方福利，会跳转到这里。如果您还没有加入该Teams群组，请及时填写表格申请加入：<https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR1MGC8v69UtCjJWx2nbSGopUNjNCWDZTQkRLV0gwWkVGV0xYRzVSUkJRNy4u&wdLOR=cFB06B42A-7F19-4BA8-87DF-12A39E77E8E3>
+目前，第三方福利已经转移到**MVP Award Program的Teams群组，下面的Opportunities里了**。大家在个人页面点击第三方福利，会跳转到这里。如果您还没有加入该Teams群组，可联系我们申请加入。
 
 ![d1f53a5b5f5418c211fc7ee4ab4a0a0](https://user-images.githubusercontent.com/108131762/181157661-5c3910c9-6d86-4bad-bf2b-f3d6be4daa9c.png)
 ![5c108d8afb42e570dbcf0aad42cb010](https://user-images.githubusercontent.com/108131762/181157680-4ebaf73b-6ad1-4f58-84b2-933c29cff656.png)
@@ -410,7 +410,7 @@ o	MVP Award Program Blog – 体现MVP社区领导力和贡献的社区故事
 
 您可以MVP & RD 通过加入MVP Award Teams获取该知识库内容。
 
-知识库内容会不断更新，如您想贡献内容，可填写以下[调查表](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRz5_gOMgE5pOhV_HV1x30KlUQVNCMzhUOFZDWTRaUEFUVDkyUTgxWlgzOS4u)。
+知识库内容会不断更新，如您想贡献内容，联系我们。
 
 
 ## 领英上如何正确填写MVP奖励
