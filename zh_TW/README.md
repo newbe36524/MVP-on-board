@@ -2,7 +2,6 @@
 
 ## MVP Portal
 
-
 當你收到來自微軟的確認郵件之後，你將正式被接納為微軟現任 MVP 的一員。從此刻開始，你便擁有了 MVP portal 上相關的操作許可權。
 
 MVP portal 的位址是 [HTTPs://mvp.microsoft.com/](https://mvp.microsoft.com/)。這實際上就是你進行材料申請提交時的網址。
@@ -122,13 +121,13 @@ MVP portal 也同樣提供了這樣一個簡要的清單，從各個方面解答
 
 對於中國的 MVP 需要提供結尾不是.cn 的微軟帳號郵箱。並且，這個帳號必須在 Azure Portal 中的 Billing Region 必須以下連結中給定的組合。
 
-[HTTPs://azure.microsoft.com/zh-cn/offers/ms-azr-0036p/?WT.mc_id=DX-MVP-5003606](https://azure.microsoft.com/zh-cn/offers/ms-azr-0036p/?WT.mc_id=DX-MVP-5003606)
+<https://azure.microsoft.com/zh-cn/offers/ms-azr-0036p/?WT.mc_id=DT-MVP-5004283>
 
 因此，如果你的帳號已經註冊的 Azure，並且區域已經選擇了 CN。那麼，這個帳號將不能夠適用于這項申請。
 
 你可以通過「Cost Manager+Billing」來查看當前帳號的 Billing 所屬的區域：
 
-[HTTPs://docs.microsoft.com/en-us/azure/cost-management-billing/manage/change-azure-account-profile?WT.mc_id=DX-MVP-5003606](https://docs.microsoft.com/en-us/azure/cost-management-billing/manage/change-azure-account-profile?WT.mc_id=DX-MVP-5003606)
+<https://docs.microsoft.com/en-us/azure/cost-management-billing/manage/change-azure-account-profile?WT.mc_id=DT-MVP-5004283>
 
 ![查看帳號的區域](../images/20210717-006.png)
 
@@ -142,7 +141,7 @@ MVP portal 也同樣提供了這樣一個簡要的清單，從各個方面解答
 
 然後在你可以通過以下連結來註冊一個新的 Azure 帳號。
 
-[HTTPs://azure.microsoft.com/free/?WT.mc_id=DX-MVP-5003606](https://azure.microsoft.com/free/?WT.mc_id=DX-MVP-5003606)
+<https://azure.microsoft.com/free/?WT.mc_id=DT-MVP-5004283>
 
 註冊時，可以選擇區域為 HK。並綁定一張支援 Visa 或者萬事達的信用卡。
 
@@ -206,15 +205,15 @@ MVP portal 也同樣提供了這樣一個簡要的清單，從各個方面解答
 
 首先，將 CN 的帳號加入到 HK 的帳號 AD 中：
 
-[HTTPs://docs.microsoft.com/zh-cn/azure/active-directory/fundamentals/add-users-azure-active-directory?WT.mc_id=DX-MVP-5003606](https://docs.microsoft.com/zh-cn/azure/active-directory/fundamentals/add-users-azure-active-directory?WT.mc_id=DX-MVP-5003606)
+<https://docs.microsoft.com/zh-cn/azure/active-directory/fundamentals/add-users-azure-active-directory?WT.mc_id=DT-MVP-5004283>
 
 然後，賦予 CN 帳號一定的角色：
 
-[HTTPs://docs.microsoft.com/zh-cn/azure/active-directory/fundamentals/active-directory-users-assign-role-azure-portal?WT.mc_id=DX-MVP-5003606](https://docs.microsoft.com/zh-cn/azure/active-directory/fundamentals/active-directory-users-assign-role-azure-portal?WT.mc_id=DX-MVP-5003606)
+<https://docs.microsoft.com/zh-cn/azure/active-directory/fundamentals/active-directory-users-assign-role-azure-portal?WT.mc_id=DT-MVP-5004283>
 
 最後，配置 Subscription IAM：
 
-[HTTPs://docs.microsoft.com/azure/cost-management-billing/manage/add-change-subscription-administrator?WT.mc_id=DX-MVP-5003606](https://docs.microsoft.com/azure/cost-management-billing/manage/add-change-subscription-administrator?WT.mc_id=DX-MVP-5003606)
+<https://docs.microsoft.com/azure/cost-management-billing/manage/add-change-subscription-administrator?WT.mc_id=DT-MVP-5004283>
 
 經過一小段時間的等待，你便可以在 CN 的帳號之下管理這個 Super rich subscription 了。
 
@@ -459,3 +458,30 @@ o MVP Award Program Blog – 體現MVP社區領導力和貢獻的社區故事
 <img width="458" alt="Picture2" src="https://user-images.githubusercontent.com/108131762/181161641-e4e96dd2-acd0-402b-8ca7-79640c1746c1.png" />
 
 
+## 如何使用 参与者 ID
+
+### 找到 ID
+
+您可以在 MVP portal 上找到对应的 ID。
+
+![找到 creator id](../images/find-creator-id.png)
+
+### 工作原理
+
+在您想要引用或链接的Microsoft Docs或Learn的原始网页网址后面添加上您的专属ID（CreatorID）。
+
+比如，原始网址是：https://docs.microsoft.com/en-us/powerapps/ 您的专属ID是：?WT.mc_id=DT-MVP-5004283 最后生成的网址是：https://docs.microsoft.com/en-us/powerapps/?WT.mc_id=DT-MVP-5004283
+
+### 插件更好
+
+当然，为了更加简便的使用，您可以安装插件：
+
+<https://chrome.google.com/webstore/detail/skilling-champion-extensi/eichjbmnicihhbhodbejfkceoknaclfd>
+
+然后在插件选项中，添加您的 id：
+
+![添加 creator id](../images/extensions-creator-id.png)
+
+然后就可以在右键链接的时候，直接拼接 id 了：
+
+![添加 creator id](../images/copy-with-creator-id.png)
