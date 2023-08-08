@@ -458,30 +458,30 @@ o MVP Award Program Blog – 體現MVP社區領導力和貢獻的社區故事
 <img width="458" alt="Picture2" src="https://user-images.githubusercontent.com/108131762/181161641-e4e96dd2-acd0-402b-8ca7-79640c1746c1.png" />
 
 
-## 如何使用 参与者 ID
+## 如何使用 參與者 ID
 
 ### 找到 ID
 
-您可以在 MVP portal 上找到对应的 ID。
+您可以在 MVP portal 上找到對應的 ID。
 
 ![找到 creator id](../images/find-creator-id.png)
 
 ### 工作原理
 
-在您想要引用或链接的Microsoft Docs或Learn的原始网页网址后面添加上您的专属ID（CreatorID）。
+在您想要引用或連結的Microsoft Docs或Learn的原始網頁網址後面添加上您的專屬ID（CreatorID）。
 
-比如，原始网址是：https://docs.microsoft.com/en-us/powerapps/ 您的专属ID是：?WT.mc_id=DT-MVP-5004283 最后生成的网址是：https://docs.microsoft.com/en-us/powerapps/?WT.mc_id=DT-MVP-5004283
+比如，原始網址是：HTTPs://docs.microsoft.com/en-us/powerapps/ 您的專屬ID是：? WT.mc_id=DT-MVP-5004283 最後生成的網址是：HTTPs://docs.microsoft.com/en-us/powerapps/?WT.mc_id=DT-MVP-5004283
 
-### 插件更好
+### 外掛程式更好
 
-当然，为了更加简便的使用，您可以安装插件：
+當然，為了更加簡便的使用，您可以安裝外掛程式：
 
 <https://chrome.google.com/webstore/detail/skilling-champion-extensi/eichjbmnicihhbhodbejfkceoknaclfd>
 
-然后在插件选项中，添加您的 id：
+然後在外掛程式選項中，添加您的 id：
 
 ![添加 creator id](../images/extensions-creator-id.png)
 
-然后就可以在右键链接的时候，直接拼接 id 了：
+然後就可以在右鍵連結的時候，直接拼接 id 了：
 
 ![添加 creator id](../images/copy-with-creator-id.png)
