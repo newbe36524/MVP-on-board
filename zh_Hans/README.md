@@ -4,13 +4,13 @@
 
 当你收到来自微软的确认邮件之后，你将正式被接纳为微软现任 MVP 的一员。从此刻开始，你便拥有了 MVP portal 上相关的操作权限。
 
-MVP portal 的地址是 <https://mvp.microsoft.com/>。这实际上就是你进行材料申请提交时的网址。
+MVP portal 的地址是 <https://mvp.microsoft.com/en-US/account/>。这实际上就是你进行材料申请提交时的网址。
 
 当你得到通过之后，便可以在一级菜单中看到额外的一些操作菜单。
 
 探索这个区域，是你接下来非常值得做的一件事情。
 
-![MVP Portal](../images/20210717-001.jpg)
+![MVP Portal](../images/2024-01-15_22-53.png)
 
 ## 常见问题
 
@@ -20,9 +20,9 @@ MVP portal 也同样提供了这样一个简要的清单，从各个方面解答
 
 你可以通过以下链接进行阅读：
 
-<https://mvp.microsoft.com/zh-cn/Awards/my-mvp-award-mvp-faq>
+<https://mvp.microsoft.com/en-US/faq?section=mvp#mvp-current-members-0>
 
-## 签署保密协议（NDA）
+## 签署保密协议（NDA） TODO: 这个部分由于完整更新，我们正在等待新的截图和内容，敬请期待！
 
 当你成为微软 MVP 之后，你将有权参加一些微软组织的非公开会议和获取非公开内容。因此，微软要求 MVP 签署一份保密协议以获取这些内容。
 
@@ -44,24 +44,17 @@ MVP portal 也同样提供了这样一个简要的清单，从各个方面解答
 
 ![1658893978689](https://user-images.githubusercontent.com/108131762/181157143-09d11d84-707c-49d7-b601-275c3f0cacdc.png)
 
-
 如您遇到违反社区行为准则的情况，请及时告知我们。我们商议后，一起做出恰当处理。
+
+您也可以参看[Code of conduct](https://mvp.microsoft.com/en-US/faq?section=mvp#mvp-code-of-conduct-0)。
 
 ## MVP 个人简介
 
-默认情况下，在你初次成为 MVP 之后。在公开的 MVP 列表中并不能查看到你最新的信息。
+作为 MVP ，我们非常建议您可以在 MVP portal 上完善您的个人简介。并上传一张您的头像。这将对您的影响力产生非常大的帮助。
 
-出于隐私的考虑，MVP portal 支持让 MVP 公开愿意公开的内容。
+您可以通过 MVP portal 的以下菜单来进行个人简介的编辑：
 
-因此，若想要让自己的相关内容出现在“Find MVP”清单中，你需要前往下面这个链接修改自己资料的可见性：
-
-<https://mvp.microsoft.com/zh-cn/MyProfile/EditPersonalInfo>
-
-例如，在下图所示的位置，仅仅当被设置为“所有人”时，相关的资料才能在“Find MVP”中查看到。
-
-![设置资料可见性](../images/20210717-002.png)
-
-左边的每一个项目当中都可以进行独立的设置。因此，如果你想全部展示所有的内容，你需要逐条进行编辑。
+![MVP Portal Edit Profile](../images/2024-01-15_23-02.png)
 
 ## MVP Credly 徽章和证书
 
