@@ -298,19 +298,19 @@ P.S. 由於要寫的內容還是比較多，為了能夠讓表格變得不那麼
 | 物品名稱 (英文)                 | 物品名稱 (譯文) | 材料  | 單價值  |
 | ------------------------- | --------- | --- | ---- |
 | Crystal Award Gift        | 水晶獎禮品     | 塑膠等 | 56.3 |
-| MVP Award Box             | MVP獎勵盒    | 塑料等 | 1    |
+| MVP Award Box             | MVP獎勵盒    | 塑膠等 | 1    |
 | Certificate               | 證書        | 紙等  | 1    |
 | Certificate Holder        | 證書盒       | 塑膠等 | 1    |
-| Certificate Plastic Cover | 證書塑膠套     | 塑料等 | 1    |
+| Certificate Plastic Cover | 證書塑膠套     | 塑膠等 | 1    |
 | Lapel Pin                 | 襟針        | 金屬等 | 1    |
 | ID Card                   | 證件卡       | 塑膠等 | 1    |
-| Dark Navy Gift Box        | 禮品盒       | 塑料等 | 1    |
+| Dark Navy Gift Box        | 禮品盒       | 塑膠等 | 1    |
 | 3-Panel Insert            | 三折頁插頁     | 紙等  | 1    |
 | Foam Insert               | 泡沫包裝      | 泡沫等 | 1    |
 | MVP Sticker Sheet         | MVP貼紙     | 紙等  | 1    |
 | NDA Packet Envelope       | NDA資料袋信封  | 紙等  | 1    |
 | Notice to Receiver        | 收件者通知     | 紙等  | 1    |
-| Code of Conduct Letter    | 行為準則信     | 纸等  | 1    |
+| Code of Conduct Letter    | 行為準則信     | 紙等  | 1    |
 
 > 注：自2023年開始，大禮包僅包含水晶獎盃和MVP獎勵盒（如上表格前兩項所示），證書和徽章等其他物品將不再納入其中，改為提供電子版。
 
