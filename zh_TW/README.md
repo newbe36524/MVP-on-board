@@ -4,13 +4,13 @@
 
 當你收到來自微軟的確認郵件之後，你將正式被接納為微軟現任 MVP 的一員。從此刻開始，你便擁有了 MVP portal 上相關的操作許可權。
 
-MVP portal 的位址是 [HTTPs://mvp.microsoft.com/](https://mvp.microsoft.com/)。這實際上就是你進行材料申請提交時的網址。
+MVP portal 的地址是 <https://mvp.microsoft.com/en-US/account/>。這實際上就是你進行材料申請提交時的網址。
 
 當你得到通過之後，便可以在一級功能表中看到額外的一些操作功能表。
 
 探索這個區域，是你接下來非常值得做的一件事情。
 
-![MVP Portal](../images/20210717-001.jpg)
+![MVP Portal](../images/2024-01-15_22-53.png)
 
 ## 常見問題
 
@@ -20,9 +20,9 @@ MVP portal 也同樣提供了這樣一個簡要的清單，從各個方面解答
 
 你可以通過以下連結進行閱讀：
 
-[HTTPs://mvp.microsoft.com/zh-cn/Awards/my-mvp-award-mvp-faq](https://mvp.microsoft.com/zh-cn/Awards/my-mvp-award-mvp-faq)
+<https://mvp.microsoft.com/en-US/faq?section=mvp#mvp-current-members-0>
 
-## 簽署保密協定（NDA）
+## 签署保密协议（NDA） TODO: 这个部分由于网站更新，我们正在等待新的截图和内容，敬请期待！
 
 當你成為微軟 MVP 之後，你將有權參加一些微軟組織的非公開會議和獲取非公開內容。因此，微軟要求 MVP 簽署一份保密協定以獲取這些內容。
 
@@ -44,24 +44,17 @@ MVP portal 也同樣提供了這樣一個簡要的清單，從各個方面解答
 
 ![1658893978689](https://user-images.githubusercontent.com/108131762/181157143-09d11d84-707c-49d7-b601-275c3f0cacdc.png)
 
-
 如您遇到違反社區行為準則的情況，請及時告知我們。我們商議後，一起做出恰當處理。
+
+您也可以参看[Code of conduct](https://mvp.microsoft.com/en-US/faq?section=mvp#mvp-code-of-conduct-0)。
 
 ## MVP 個人簡介
 
-預設情況下，在你初次成為 MVP 之後。在公開的 MVP 清單中並不能查看到你最新的資訊。
+作为 MVP ，我们非常建议您可以在 MVP portal 上完善您的个人简介。并上传一张您的头像。这将对您的影响力产生非常大的帮助。
 
-出於隱私的考慮，MVP portal 支援讓 MVP 公開願意公開的內容。
+您可以通过 MVP portal 的以下菜单来进行个人简介的编辑：
 
-因此，若想要讓自己的相關內容出現在「Find MVP」清單中，你需要前往下面這個連結修改自己資料的可見度：
-
-[HTTPs://mvp.microsoft.com/zh-cn/MyProfile/EditPersonalInfo](https://mvp.microsoft.com/zh-cn/MyProfile/EditPersonalInfo)
-
-例如，在下圖所示的位置，僅僅當被設置為「所有人」時，相關的資料才能在「Find MVP」中查看到。
-
-![設置資料可見度](../images/20210717-002.png)
-
-左邊的每一個專案當中都可以進行獨立的設置。因此，如果你想全部展示所有的內容，你需要逐條進行編輯。
+![MVP Portal Edit Profile](../images/2024-01-15_23-02.png)
 
 ## MVP Credly 徽章和證書
 
