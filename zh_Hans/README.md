@@ -101,7 +101,7 @@ MVP portal 也同样提供了这样一个简要的清单，从各个方面解答
 
 ### Github Copilot
 
-你可以<通过Azure订阅Github Copilot.pdf>
+你可以[通过Azure订阅Github Copilot.pdf](通过Azure订阅Github Copilot.pdf)
 
 ### Extended Azure Credit Benefit
 
