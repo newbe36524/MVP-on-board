@@ -99,6 +99,10 @@ MVP portal 也同样提供了这样一个简要的清单，从各个方面解答
 
 以下提一些我遇到的比较特殊的权益申请问题和办法。
 
+### Github Copilot
+
+你可以<通过Azure订阅Github Copilot.pdf>
+
 ### Extended Azure Credit Benefit
 
 微软在 Visual Studio Enterprise 订阅提供的 150 美元额度的基础上，为特定领域的 MVP 提供了更多的额度，以便 MVP 可以开展更多的活动。
