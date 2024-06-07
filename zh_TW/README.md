@@ -214,6 +214,12 @@ MVP portal 也同樣提供了這樣一個簡要的清單，從各個方面解答
 
 經過一小段時間的等待，你便可以在 CN 的帳號之下管理這個 Super rich subscription 了。
 
+### Jebbrain 福利申请
+
+请前往：https://www.jetbrains.com/shop/eform/devrecognition?wt.mc_id=MVP_373702
+
+填写申请福利的表单，审核通过后即可收到绑定激活邮件。
+
 ### Jetbrain 付費外掛程式
 
 Jetbrain 全家桶權益，不僅僅包含了 Jetbrain 所有的 IDE。實際上還包含了部分外掛程式商城中的付費外掛程式。
