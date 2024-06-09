@@ -22,7 +22,7 @@ MVP portal 也同樣提供了這樣一個簡要的清單，從各個方面解答
 
 <https://mvp.microsoft.com/en-US/faq?section=mvp#mvp-current-members-0>
 
-## 签署保密协议（NDA） TODO: 这个部分由于网站更新，我们正在等待新的截图和内容，敬请期待！
+## 簽署保密協議（NDA） TODO: 這個部分由於網站更新，我們正在等待新的截圖和內容，敬請期待！
 
 當你成為微軟 MVP 之後，你將有權參加一些微軟組織的非公開會議和獲取非公開內容。因此，微軟要求 MVP 簽署一份保密協定以獲取這些內容。
 
@@ -46,13 +46,13 @@ MVP portal 也同樣提供了這樣一個簡要的清單，從各個方面解答
 
 如您遇到違反社區行為準則的情況，請及時告知我們。我們商議後，一起做出恰當處理。
 
-您也可以参看[Code of conduct](https://mvp.microsoft.com/en-US/faq?section=mvp#mvp-code-of-conduct-0)。
+您也可以參看[Code of conduct](https://mvp.microsoft.com/en-US/faq?section=mvp#mvp-code-of-conduct-0)。
 
 ## MVP 個人簡介
 
-作为 MVP ，我们非常建议您可以在 MVP portal 上完善您的个人简介。并上传一张您的头像。这将对您的影响力产生非常大的帮助。
+作為 MVP ，我們非常建議您可以在 MVP portal 上完善您的個人簡介。並上傳一張您的頭像。這將對您的影響力產生非常大的幫助。
 
-您可以通过 MVP portal 的以下菜单来进行个人简介的编辑：
+您可以通過 MVP portal 的以下菜單來進行個人簡介的編輯：
 
 ![MVP Portal Edit Profile](../images/2024-01-15_23-02.png)
 
@@ -60,15 +60,15 @@ MVP portal 也同樣提供了這樣一個簡要的清單，從各個方面解答
 
 在成為 MVP 後，你會收到一封 MVP Credly 徽章和證書的領取郵件，這是一種新的提供方式，你可以向全世界分享你的徽章。
 
-如果你收到了直接添加徽章的郵件，點擊接受連結即可獲取。如果你沒有收到相關郵件或收到了可以領取徽章的提醒郵件，那麼你可按照下面的方式操作：
+如果你收到了直接添加徽章的郵件，點擊接受鏈接即可獲取。如果你沒有收到相關郵件或收到了可以領取徽章的提醒郵件，那麼你可按照下面的方式操作：
 
 1. 若你尚未擁有 Credly 帳戶，可以前往註冊 [Credly](https://info.credly.com)。
-2. 填寫該表單 [HTTPs://aka.ms/MVPCredlyForm](https://aka.ms/MVPCredlyForm)，提供 MVPID 、姓名和 Credly 帳戶的關聯郵箱。
-3. 等待審核通過的郵件，在郵件中找到接受連結，領取徽章。
+2. 填寫該表單 [https://aka.ms/MVPCredlyForm](https://aka.ms/MVPCredlyForm)，提供 MVPID 、姓名和 Credly 帳戶的關聯郵箱。
+3. 等待審核通過的郵件，在郵件中找到接受鏈接，領取徽章。
 
-郵箱建議最好和 MVP 使用同一個，可以避免麻煩。Credly 登錄註冊時，你可以使用協力廠商授權，其會從協力廠商獲取你的郵箱資訊。如果你有多個 Credly 帳戶，也不用擔心，在 Credly 的帳戶管理中心，你可以添加多個郵箱位址，也可以進行帳戶合併。
+郵箱建議最好和 MVP 使用同一個，可以避免麻煩。Credly 登錄註冊時，你可以使用第三方授權，其會從第三方獲取你的郵箱信息。如果你有多個 Credly 帳戶，也不用擔心，在 Credly 的帳戶管理中心，你可以添加多個郵箱地址，也可以進行帳戶合併。
 
-當完成徽章添加後，在徽章的詳情頁面的右上方有一個 「Share」 分享按鈕，點擊後你可以看到如下的分享介面，選擇 「Download Certificate」 即可下載你的 MVP 證書。
+當完成徽章添加後，在徽章的詳情頁面的右上方有一個 “Share” 分享按鈕，點擊後你可以看到如下的分享界面，選擇 “Download Certificate” 即可下載你的 MVP 證書。
 
 ![徽章分享頁面](../images/20230712-001.png)
 
@@ -100,7 +100,7 @@ MVP portal 也同樣提供了這樣一個簡要的清單，從各個方面解答
 
 ### Github Copilot
 
-你可以[通过Azure订阅Github Copilot.pdf](./通过Azure订阅Github%20Copilot.pdf)
+你可以[通過Azure訂閱Github Copilot.pdf](./通過Azure訂閱Github%20Copilot.pdf)
 
 ### Extended Azure Credit Benefit
 
@@ -214,17 +214,17 @@ MVP portal 也同樣提供了這樣一個簡要的清單，從各個方面解答
 
 經過一小段時間的等待，你便可以在 CN 的帳號之下管理這個 Super rich subscription 了。
 
-### Jebbrain 福利申请
+### Jebbrain 福利申請
 
-请前往：https://www.jetbrains.com/shop/eform/devrecognition?wt.mc_id=MVP_373702
+請前往：https://www.jetbrains.com/shop/eform/devrecognition?wt.mc_id=MVP_373702
 
-填写申请福利的表单，审核通过后即可收到绑定激活邮件。
+填寫申請福利的表單，審核通過後即可收到綁定啟用郵件。
 
 ### Jetbrain 付費外掛程式
 
 Jetbrain 全家桶權益，不僅僅包含了 Jetbrain 所有的 IDE。實際上還包含了部分外掛程式商城中的付費外掛程式。
 
-即，MVP 同樣也可以申請免費的部分付費外掛程式許可。
+即，MVP 同樣也可以申請免費的部分付費插件許可。
 
 以下以 Material Theme UI 這個外掛程式為例。打開其在商城中的網站。
 
@@ -308,13 +308,13 @@ P.S. 由於要寫的內容還是比較多，為了能夠讓表格變得不那麼
 | 物品名稱 (英文)                 | 物品名稱 (譯文) | 材料  | 單價值  |
 | ------------------------- | --------- | --- | ---- |
 | Crystal Award Gift        | 水晶獎禮品     | 塑膠等 | 56.3 |
-| MVP Award Box             | MVP獎勵盒    | 塑膠等 | 1    |
+| MVP Award Box             | MVP獎勵盒    | 塑料等 | 1    |
 | Certificate               | 證書        | 紙等  | 1    |
 | Certificate Holder        | 證書盒       | 塑膠等 | 1    |
-| Certificate Plastic Cover | 證書塑膠套     | 塑膠等 | 1    |
+| Certificate Plastic Cover | 證書塑膠套     | 塑料等 | 1    |
 | Lapel Pin                 | 襟針        | 金屬等 | 1    |
 | ID Card                   | 證件卡       | 塑膠等 | 1    |
-| Dark Navy Gift Box        | 禮品盒       | 塑膠等 | 1    |
+| Dark Navy Gift Box        | 禮品盒       | 塑料等 | 1    |
 | 3-Panel Insert            | 三折頁插頁     | 紙等  | 1    |
 | Foam Insert               | 泡沫包裝      | 泡沫等 | 1    |
 | MVP Sticker Sheet         | MVP貼紙     | 紙等  | 1    |
@@ -461,30 +461,30 @@ o MVP Award Program Blog – 體現MVP社區領導力和貢獻的社區故事
 <img width="458" alt="Picture2" src="https://user-images.githubusercontent.com/108131762/181161641-e4e96dd2-acd0-402b-8ca7-79640c1746c1.png" />
 
 
-## 如何使用 參與者 ID
+## 如何使用参与者ID
 
-### 找到 ID
+### 找到ID
 
-您可以在 MVP portal 上找到對應的 ID。
+您可以在MVP portal上找到对应的ID。
 
-![找到 creator id](../images/find-creator-id.png)
+![找到creator id](../images/find-creator-id.png)
 
 ### 工作原理
 
-在您想要引用或連結的Microsoft Docs或Learn的原始網頁網址後面添加上您的專屬ID（CreatorID）。
+在您想要引用或链接的Microsoft Docs或Learn的原始网页网址后面添加上您的专属ID（CreatorID）。
 
-比如，原始網址是：HTTPs://docs.microsoft.com/en-us/powerapps/ 您的專屬ID是：? WT.mc_id=DT-MVP-5004283 最後生成的網址是：HTTPs://docs.microsoft.com/en-us/powerapps/?WT.mc_id=DT-MVP-5004283
+比如，原始网址是：https://docs.microsoft.com/en-us/powerapps/ 您的专属ID是：?WT.mc_id=DT-MVP-5004283 最后生成的网址是：https://docs.microsoft.com/en-us/powerapps/?WT.mc_id=DT-MVP-5004283
 
-### 外掛程式更好
+### 插件更好
 
-當然，為了更加簡便的使用，您可以安裝外掛程式：
+当然，为了更加简便的使用，您可以安装插件：
 
 <https://chrome.google.com/webstore/detail/skilling-champion-extensi/eichjbmnicihhbhodbejfkceoknaclfd>
 
-然後在外掛程式選項中，添加您的 id：
+然后在插件选项中，添加您的id：
 
-![添加 creator id](../images/extensions-creator-id.png)
+![添加creator id](../images/extensions-creator-id.png)
 
-然後就可以在右鍵連結的時候，直接拼接 id 了：
+然后就可以在右键链接的时候，直接拼接id了：
 
-![添加 creator id](../images/copy-with-creator-id.png)
+![添加creator id](../images/copy-with-creator-id.png)
