@@ -62,7 +62,7 @@ MVP portal 也同样提供了这样一个简要的清单，从各个方面解答
 
 如果你收到了直接添加徽章的邮件，点击接受链接即可获取。如果你没有收到相关邮件或收到了可以领取徽章的提醒邮件，那么你可按照下面的方式操作：
 
-1. 若你尚未拥有 Credly 账户，可以前往注册 [Credly](https://info.credly.com)，使用和MVP账号一样的邮箱
+1. 若你尚未拥有 Credly 账户，可以前往注册 [Credly](https://info.credly.com)，使用和 MVP 账号一样的邮箱。
 2. 填写该表单 [https://aka.ms/MVPCredlyForm](https://aka.ms/MVPCredlyForm)，提供 颁奖日期 、姓名和 Credly 账户的关联邮箱（MVP邮箱）。
 3. 等待审核通过的邮件，在邮件中找到接受链接，领取徽章。
 
