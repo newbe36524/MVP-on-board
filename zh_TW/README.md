@@ -62,8 +62,8 @@ MVP portal 也同樣提供了這樣一個簡要的清單，從各個方面解答
 
 如果你收到了直接添加徽章的郵件，點擊接受鏈接即可獲取。如果你沒有收到相關郵件或收到了可以領取徽章的提醒郵件，那麼你可按照下面的方式操作：
 
-1. 若你尚未擁有 Credly 帳戶，可以前往註冊 [Credly](https://info.credly.com)。
-2. 填寫該表單 [https://aka.ms/MVPCredlyForm](https://aka.ms/MVPCredlyForm)，提供 MVPID 、姓名和 Credly 帳戶的關聯郵箱。
+1. 若你尚未拥有 Credly 账户，可以前往注册 [Credly](https://info.credly.com)，使用和 MVP 账号一样的邮箱。
+2. 填写该表单 [https://aka.ms/MVPCredlyForm](https://aka.ms/MVPCredlyForm)，提供 颁奖日期 、姓名和 Credly 账户的关联邮箱（MVP邮箱）。
 3. 等待審核通過的郵件，在郵件中找到接受鏈接，領取徽章。
 
 郵箱建議最好和 MVP 使用同一個，可以避免麻煩。Credly 登錄註冊時，你可以使用第三方授權，其會從第三方獲取你的郵箱信息。如果你有多個 Credly 帳戶，也不用擔心，在 Credly 的帳戶管理中心，你可以添加多個郵箱地址，也可以進行帳戶合併。
@@ -80,7 +80,7 @@ MVP portal 也同樣提供了這樣一個簡要的清單，從各個方面解答
 - Visual Studio Enterprise 訂閱
 - Office 365
 - Github Pro
-- Jetbrain 全家桶授權
+- JetBrains 全家桶授权
 - Visual Assist X 免費 NFR 授權
 - Telerik 免費 NFR 授權
 - DevExpress 免費 NFR 授權
@@ -214,15 +214,15 @@ MVP portal 也同樣提供了這樣一個簡要的清單，從各個方面解答
 
 經過一小段時間的等待，你便可以在 CN 的帳號之下管理這個 Super rich subscription 了。
 
-### Jebbrain 福利申請
+### JetBrains 福利申请
 
-請前往：https://www.jetbrains.com/shop/eform/devrecognition?wt.mc_id=MVP_373702
+请前往：https://www.jetbrains.com/shop/eform/devrecognition
 
 填寫申請福利的表單，審核通過後即可收到綁定啟用郵件。
 
-### Jetbrain 付費外掛程式
+### JetBrains 付费插件
 
-Jetbrain 全家桶權益，不僅僅包含了 Jetbrain 所有的 IDE。實際上還包含了部分外掛程式商城中的付費外掛程式。
+JetBrains 全家桶权益，不仅仅包含了 JetBrains 所有的 IDE。實際上還包含了部分外掛程式商城中的付費外掛程式。
 
 即，MVP 同樣也可以申請免費的部分付費插件許可。
 
@@ -259,6 +259,8 @@ Jetbrain 全家桶權益，不僅僅包含了 Jetbrain 所有的 IDE。實際上
 > 大禮包開箱視頻：HTTPs://www.bilibili.com/video/BV1sL411J7U5
 
 微軟會通過聯邦快遞將禮包寄到你的手上，這裡需要海關清關，聯邦快遞會電話詢問裡採用什麼方式清關，通常分為企業和個人。
+
+这里需要注意很多人在商城下单遇到的一个问题 **Address name is too short** ，遇到这个问题是因为商城的个人 profile 中包含了中文，修改为英文即可（最好全用英文，不要写任何中文，包括地址）。
 
 ### 企業快件快速清關
 
