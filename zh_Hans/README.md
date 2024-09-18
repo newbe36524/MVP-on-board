@@ -62,8 +62,8 @@ MVP portal 也同样提供了这样一个简要的清单，从各个方面解答
 
 如果你收到了直接添加徽章的邮件，点击接受链接即可获取。如果你没有收到相关邮件或收到了可以领取徽章的提醒邮件，那么你可按照下面的方式操作：
 
-1. 若你尚未拥有 Credly 账户，可以前往注册 [Credly](https://info.credly.com)。
-2. 填写该表单 [https://aka.ms/MVPCredlyForm](https://aka.ms/MVPCredlyForm)，提供 MVPID 、姓名和 Credly 账户的关联邮箱。
+1. 若你尚未拥有 Credly 账户，可以前往注册 [Credly](https://info.credly.com)，使用和MVP账号一样的邮箱
+2. 填写该表单 [https://aka.ms/MVPCredlyForm](https://aka.ms/MVPCredlyForm)，提供 颁奖日期 、姓名和 Credly 账户的关联邮箱（MVP邮箱）。
 3. 等待审核通过的邮件，在邮件中找到接受链接，领取徽章。
 
 邮箱建议最好和 MVP 使用同一个，可以避免麻烦。Credly 登录注册时，你可以使用第三方授权，其会从第三方获取你的邮箱信息。如果你有多个 Credly 账户，也不用担心，在 Credly 的账户管理中心，你可以添加多个邮箱地址，也可以进行账户合并。
@@ -260,6 +260,8 @@ Jetbrain 全家桶权益，不仅仅包含了 Jetbrain 所有的 IDE。实际上
 > 大礼包开箱视频：https://www.bilibili.com/video/BV1sL411J7U5
 
 微软会通过联邦快递将礼包寄到你的手上，这里需要海关清关，联邦快递会电话询问里采用什么方式清关，通常分为企业和个人。
+
+这里需要注意很多人在商城下单遇到的一个问题 **Address name is too short** ，遇到这个问题是因为 商城的个人profile中包含了中文，修改为英文即可（最好全用英文，不要写任何中文，包括地址）
 
 ### 企业快件快速清关
 
